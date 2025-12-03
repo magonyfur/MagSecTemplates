@@ -1,9 +1,10 @@
 {
-	"id": "MagSec",
-	"authors": ["MagSec", "AMP Community"],
+    "id": "fd8c9d5e-0bc8-464d-b9f3-5d643741d547",
+    "authors": [
+        "MagSec"
+    ],
 	"origin": "https://github.com/magonyfur/MagSecTemplates.git",
 	"url": "https://github.com/magonyfur/MagSecTemplates",
 	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+	"prefix": "MagSec_"
 }
