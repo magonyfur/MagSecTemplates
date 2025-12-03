@@ -4,6 +4,6 @@
 	"origin": "https://github.com/magonyfur/MagSecTemplates.git",
 	"url": "https://github.com/magonyfur/MagSecTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "MagSec_",
 	"repotype": "AppTemplates"
 }
